@@ -5,12 +5,12 @@ export const Wrapper = styled.main`
   color: #fff;
   width: 100%;
   height: 100%;
+  padding: 3rem;
   text-align: center;
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: column;
-  padding: 3rem;
+  align-items: center;
+  justify-content: center;
 `;
 
 export const Logo = styled.img`
