@@ -1930,6 +1930,21 @@
     prop-types "^15.7.2"
     regenerator-runtime "^0.13.7"
 
+"@storybook/addons@6.3.3":
+  version "6.3.3"
+  resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.3.3.tgz#040506adea1365699b039ff3c70a97a1a31fa766"
+  integrity sha512-EAT/MXZcAsjt9zQ15oHCyjoOVSbeas/y8+tHXFAcJKF1leZzRamg4X0hFjJWDtm0+HZWfC9qX8Rl57bIwgMRmQ==
+  dependencies:
+    "@storybook/api" "6.3.3"
+    "@storybook/channels" "6.3.3"
+    "@storybook/client-logger" "6.3.3"
+    "@storybook/core-events" "6.3.3"
+    "@storybook/router" "6.3.3"
+    "@storybook/theming" "6.3.3"
+    core-js "^3.8.2"
+    global "^4.4.0"
+    regenerator-runtime "^0.13.7"
+
 "@storybook/addons@6.3.4", "@storybook/addons@^6.3.0":
   version "6.3.4"
   resolved "https://registry.yarnpkg.com/@storybook/addons/-/addons-6.3.4.tgz#016c5c3e36c78a320eb8b022cf7fe556d81577c2"
@@ -3263,10 +3278,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@^16.0.1":
-  version "16.0.1"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.0.1.tgz#70cedfda26af7a2ca073fdcc9beb2fff4aa693f8"
-  integrity sha512-hBOx4SUlEPKwRi6PrXuTGw1z6lz0fjsibcWCM378YxsSu/6+C30L6CR49zIBKHiwNWCYIcOLjg4OHKZaFeLAug==
+"@types/node@*", "@types/node@^16.3.0":
+  version "16.3.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.3.0.tgz#1836664e4fad13b51b07eb6e882a53925e6543c4"
+  integrity sha512-OydMCocGMGqw/1BnWbhtK+AtwyWTOigtrQlRe57OQmTNcI3HKlVI5FGlh+c4mSqInMPLynFrTlYjfajPu9O/eQ==
 
 "@types/node@^14.0.10":
   version "14.17.3"
