@@ -435,7 +435,7 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@babel/parser@^7.1.0", "@babel/parser@^7.12.11", "@babel/parser@^7.12.7", "@babel/parser@^7.16.0", "@babel/parser@^7.7.2":
+"@babel/parser@^7.1.0", "@babel/parser@^7.12.11", "@babel/parser@^7.12.7", "@babel/parser@^7.16.0":
   version "7.16.5"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.16.5.tgz#beb3af702e54d24796341ab9420fb329131ad658"
   integrity sha512-+Ce7T5iPNWzfu9C1aB5tN3Lyafs5xb3Ic7vBWyZL2KXT3QSdD1dD3CvgOzPmQKoNNRt6uauc0XwNJTQtXC2/Mw==
@@ -1238,7 +1238,7 @@
     "@babel/parser" "^7.16.7"
     "@babel/types" "^7.16.7"
 
-"@babel/traverse@^7.1.0", "@babel/traverse@^7.1.6", "@babel/traverse@^7.12.11", "@babel/traverse@^7.12.9", "@babel/traverse@^7.13.0", "@babel/traverse@^7.14.5", "@babel/traverse@^7.16.7", "@babel/traverse@^7.4.5", "@babel/traverse@^7.7.2":
+"@babel/traverse@^7.1.6", "@babel/traverse@^7.12.11", "@babel/traverse@^7.12.9", "@babel/traverse@^7.13.0", "@babel/traverse@^7.14.5", "@babel/traverse@^7.16.7", "@babel/traverse@^7.4.5", "@babel/traverse@^7.7.2":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.16.7.tgz#dac01236a72c2560073658dd1a285fe4e0865d76"
   integrity sha512-8KWJPIb8c2VvY8AJrydh6+fVRo2ODx1wYBU2398xJVq0JomuLBZmVQzLPBblJgHIGYG4znCpUZUZ0Pt2vdmVYQ==
@@ -3064,10 +3064,10 @@
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-2.0.0.tgz#7036640b4e21cc2f259ae826ce843d277dad8cff"
   integrity sha512-RJJrrySY7A8havqpGObOB4W92QXKJo63/jFLLgpvOtsGUqbQZ9Sbgl35KMm1DjC6j7AvmmU2bIno+3IyEaemaw==
 
-"@types/styled-components@^5.1.19":
-  version "5.1.19"
-  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.19.tgz#d76f431ee49d0a222ab4e758dcd540b01987652d"
-  integrity sha512-hNj14Oamk7Jhb/fMMQG7TUkd3e8uMMgxsCTH+ueJNGdFo/PuhlGDQTPChqyilpZP0WttgBHkc2YyT5UG+yc6Yw==
+"@types/styled-components@^5.1.23":
+  version "5.1.23"
+  resolved "https://registry.yarnpkg.com/@types/styled-components/-/styled-components-5.1.23.tgz#11e5740047f292b42a042c60c0ef16b58d5adef6"
+  integrity sha512-zt8oQGU6XB4LH1Xpq169YnAVmt22+swzHJvyKMyTZu/z8+afvgKjjg0s79aAodgNSf36ZOEG6DyVAW/JhLH2Nw==
   dependencies:
     "@types/hoist-non-react-statics" "*"
     "@types/react" "*"
